@@ -7,56 +7,56 @@ Welcome to the JBL Lab Portfolio! This repository contains a comprehensive colle
 ### Lab 1: Exploring the Seven Domains of a Typical IT Infrastructure
 Understanding the foundational structure of IT infrastructure by examining the seven critical domains that make up a typical IT environment.
 
-📄 **[View Lab Report](./Lab-1/PDF/)**
+📄 **[View Lab Report](./Lab-1/)**
 
 ---
 
 ### Lab 2: Configuring Backup and Recovery Functions
 Implementing and configuring robust backup and recovery mechanisms to ensure business continuity and data protection.
 
-📄 **[View Lab Report](./Lab-2/PDF/)**
+📄 **[View Lab Report](./Lab-2/)**
 
 ---
 
 ### Lab 3: Assessing Common Attack Vectors
 Analyzing and identifying common attack vectors used by malicious actors to compromise IT systems and infrastructure.
 
-📄 **[View Lab Report](./Lab-3/PDF/)**
+📄 **[View Lab Report](./Lab-3/)**
 
 ---
 
 ### Lab 4: Implementing Security Monitoring and Logging
 Deploying comprehensive security monitoring and logging solutions to detect and respond to security incidents.
 
-📄 **[View Lab Report](./Lab-4/PDF/)**
+📄 **[View Lab Report](./Lab-4/)**
 
 ---
 
 ### Lab 5: Implementing an IT Security Policy
 Developing and implementing effective IT security policies to establish governance and security standards across the organization.
 
-📄 **[View Lab Report](./Lab-5/PDF/)**
+📄 **[View Lab Report](./Lab-5/)**
 
 ---
 
 ### Lab 6: Performing Packet Capture and Traffic Analysis
 Capturing and analyzing network traffic to understand communication patterns and identify potential security issues.
 
-📄 **[View Lab Report](./Lab-6/PDF/)**
+📄 **[View Lab Report](./Lab-6/)**
 
 ---
 
 ### Lab 7: Performing a Vulnerability Assessment
 Conducting comprehensive vulnerability assessments to identify weaknesses in systems and infrastructure.
 
-📄 **[View Lab Report](./Lab-7/PDF/)**
+📄 **[View Lab Report](./Lab-7/)**
 
 ---
 
 ### Lab 8: Using Encryption to Enhance Confidentiality and Integrity
 Implementing encryption technologies to protect data confidentiality and ensure data integrity.
 
-📄 **[View Lab Report](./Lab-8/PDF/)**
+📄 **[View Lab Report](./Lab-8/)**
 
 ---
 
@@ -71,19 +71,19 @@ This collection demonstrates expertise in:
 
 ## Repository Structure
 
-Each lab is organized in its own folder with:
+Each lab is organized in its own folder:
 ```
 Lab-X/
-└── PDF/
-    ├── [Lab Report].pdf
-    └── README.md
+└── README.md (with lab description and links to PDF)
 ```
+
+The lab PDFs are located within each Lab folder for easy access.
 
 ## How to Navigate
 
-1. Click on any lab title above to view the detailed lab report
-2. Each lab folder contains the complete PDF documentation and supporting materials
-3. For more information about specific labs, refer to the README in each lab's PDF folder
+1. Click on any lab title above to view the lab folder
+2. Each lab folder contains a README with the complete PDF documentation
+3. For more information about specific labs, refer to the README in each lab folder
 
 ## Skills Demonstrated
 
