@@ -42,7 +42,7 @@ Developing and implementing effective IT security policies to establish governan
 ### Lab 6: Performing Packet Capture and Traffic Analysis
 Capturing and analyzing network traffic to understand communication patterns and identify potential security issues.
 
-📄 **[View Lab Report](./lab%206/Perfroming%20Packet%20capture%20and%20Traficc%20Analysis)**
+📄 **[View Lab Report](./lab%206/Performing%20Packet%20Capture%20and%20Traffic%20Analysis)**
 
 ---
 
